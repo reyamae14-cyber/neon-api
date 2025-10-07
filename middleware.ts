@@ -15,6 +15,7 @@ const isLocalhost = (url: string | null) => {
 const ALLOWED_ORIGINS = [
   "https://zetflix-official.vercel.app",
   "https://zetflix-tv.vercel.app",
+  "zetflix-official-backend-lac.vercel.app",
   // Add more production allowed origins here
 ]
 
